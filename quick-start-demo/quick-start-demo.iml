@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+<module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
       <configuration />
@@ -93,8 +93,8 @@
     <orderEntry type="library" name="Maven: com.vaadin.external.slf4j:vaadin-slf4j-jdk14:1.6.1" level="project" />
     <orderEntry type="library" name="Maven: com.vaadin:vaadin-client-compiled:8.3.0" level="project" />
     <orderEntry type="library" name="Maven: com.vaadin:vaadin-themes:8.3.0" level="project" />
-    <orderEntry type="module" module-name="quick-start-material" />
-    <orderEntry type="module" module-name="quick-start-base" />
+    <orderEntry type="library" name="Maven: com.github.appreciated:quick-start-material:0.9.21" level="project" />
+    <orderEntry type="library" name="Maven: com.github.appreciated:quick-start-base:0.9.21" level="project" />
     <orderEntry type="library" name="Maven: org.vaadin.leif:splashscreen:0.3.1" level="project" />
     <orderEntry type="library" name="Maven: com.github.appreciated:material:1.1.8" level="project" />
     <orderEntry type="library" name="Maven: com.github.appreciated:app-layout-addon:0.9.20" level="project" />
