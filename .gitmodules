@@ -1,0 +1,6 @@
+[submodule "quick-start-base"]
+	path = quick-start-base
+	url = https://github.com/appreciated/quick-start-base.git
+[submodule "quick-start-material"]
+	path = quick-start-material
+	url = https://github.com/appreciated/quick-start-material.git
