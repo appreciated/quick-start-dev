@@ -1,3 +1,6 @@
 # IntelliJ project files
-.idea
 *.iml
+*.css
+*.css.map
+.idea
+/quick-start-demo/target/

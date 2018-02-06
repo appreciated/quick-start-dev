@@ -1,7 +1,6 @@
 package com.github.appreciated.demo;
 
 import com.github.appreciated.quickstart.base.pages.Page;
-import com.vaadin.navigator.View;
 import com.vaadin.ui.Alignment;
 import com.vaadin.ui.HorizontalLayout;
 import com.vaadin.ui.Label;

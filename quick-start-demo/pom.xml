@@ -5,7 +5,7 @@
     <groupId>com.github.appreciated</groupId>
     <artifactId>quick-start-demo</artifactId>
     <packaging>war</packaging>
-    <version>0.9.20</version>
+    <version>0.9.21</version>
     <name>quick-start-demo</name>
 
     <prerequisites>
